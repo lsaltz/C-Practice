@@ -1,0 +1,6 @@
+D:\Entire Drive\Coding Projects\Calculator\bin\Debug\Calculator.exe.config
+D:\Entire Drive\Coding Projects\Calculator\bin\Debug\Calculator.exe
+D:\Entire Drive\Coding Projects\Calculator\bin\Debug\Calculator.pdb
+D:\Entire Drive\Coding Projects\Calculator\obj\Debug\Calculator.csprojAssemblyReference.cache
+D:\Entire Drive\Coding Projects\Calculator\obj\Debug\Calculator.exe
+D:\Entire Drive\Coding Projects\Calculator\obj\Debug\Calculator.pdb
