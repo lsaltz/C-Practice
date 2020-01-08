@@ -1,5 +1,4 @@
 ﻿using System;
-using SQLite;
 
 namespace Practice1
 {
@@ -8,6 +7,7 @@ namespace Practice1
         static void Main(string[] args)
         {
             Users userClass = new Users();
+            ReportCard rc = new ReportCard();
 
             string newUser = "n";
             string firstInput;
@@ -32,14 +32,4 @@ namespace Practice1
                 }
             } while (firstInput != newUser || firstInput != user);
         }
-        public string CreateDB()
-        {
-            var output = "";
-            output += "Creating Database if it doesn't exist";
-            string dpPath = System.IO.Path.Combine(System.Environment.GetFolderPath(System.Environment.SpecialFolder.Personal), "Practice1.db3");
-            var db = new SQLiteConnection(dpPath);
-            output += "\n Database Created";
-            return output;
-        }
-    }
 }
