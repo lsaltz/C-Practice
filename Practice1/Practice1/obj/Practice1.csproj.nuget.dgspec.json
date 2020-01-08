@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\source\\repos\\Practice1\\Practice1\\Practice1.csproj": {}
+    "C:\\Users\\User\\Documents\\C-Practice\\Practice1\\Practice1\\Practice1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\source\\repos\\Practice1\\Practice1\\Practice1.csproj": {
+    "C:\\Users\\User\\Documents\\C-Practice\\Practice1\\Practice1\\Practice1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\source\\repos\\Practice1\\Practice1\\Practice1.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Documents\\C-Practice\\Practice1\\Practice1\\Practice1.csproj",
         "projectName": "Practice1",
-        "projectPath": "C:\\Users\\User\\source\\repos\\Practice1\\Practice1\\Practice1.csproj",
+        "projectPath": "C:\\Users\\User\\Documents\\C-Practice\\Practice1\\Practice1\\Practice1.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\source\\repos\\Practice1\\Practice1\\obj\\",
+        "outputPath": "C:\\Users\\User\\Documents\\C-Practice\\Practice1\\Practice1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
