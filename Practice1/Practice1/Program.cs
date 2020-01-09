@@ -36,9 +36,10 @@ namespace Practice1
 
             } while (x);
 
-            Console.WriteLine("Press any key to view Report Cards.");
+            Console.WriteLine("Press any key to view Report Card");
             Console.ReadLine();
             rc.DisplayData();
+            Console.ReadLine();
         }
     }
 }

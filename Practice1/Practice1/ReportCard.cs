@@ -19,17 +19,17 @@ namespace Practice1
 
                 System.Data.DataRow marshall = report.NewRow();
                 marshall["Name"] = "Marshall";
-                marshall["Grade"] = "0";
+                marshall["Grade"] = "15";
                 report.Rows.Add(marshall);
 
                 System.Data.DataRow todrick = report.NewRow();
                 todrick["Name"] = "Todrick";
-                todrick["Grade"] = "0";
+                todrick["Grade"] = "83";
                 report.Rows.Add(todrick);
 
                 System.Data.DataRow aria = report.NewRow();
                 aria["Name"] = "Aria";
-                aria["Grade"] = "0";
+                aria["Grade"] = "100";
                 report.Rows.Add(aria);
             }
             catch(Exception ex)
