@@ -6,9 +6,7 @@ namespace Practice1
 {
     public class ReportCard
     {
-
         System.Data.DataTable report = new System.Data.DataTable();
-
         public void Data()
         {
             try
@@ -51,7 +49,6 @@ namespace Practice1
                 {
                     Console.Write("\t{0}", row[column]);
                 }
-
                 Console.WriteLine("\t");
             }
         }
