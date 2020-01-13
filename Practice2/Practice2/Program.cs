@@ -37,10 +37,15 @@ namespace Practice2
 
             Console.WriteLine("Data predicting from: " + data);
 
-            Console.WriteLine($"Target Class Prediction - {prediction.PredictionData}");
-
-            Console.ReadLine();
-
+            Console.WriteLine($"Is it a Pulsar Star? - {prediction.PredictionData}");
+            if(prediction.PredictionData == 1)
+            {
+                Console.WriteLine("Yes");
+            }
+            else
+            {
+                Console.WriteLine("No");
+            }
         }
     }
 }
