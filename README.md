@@ -1,2 +1,2 @@
-# C-Practice
+# C# Practice
 Practice C# Programs
